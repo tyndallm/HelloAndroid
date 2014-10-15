@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="increase_score_text">Increase Score</string>
+    <string name="decrease_score_text">Decrease Score</string>
+    <string name="win_btn_text">Win</string>
+    <string name="congrats_text">Congratulations you win!</string>
+    <string name="restart_text">Restart game</string>
+
+</resources>
